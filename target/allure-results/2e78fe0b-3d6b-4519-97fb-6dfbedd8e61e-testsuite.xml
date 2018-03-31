@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1522522216750" stop="1522522218971" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |</name>
+    <title>Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |</title>
+    <test-cases>
+        <test-case start="1522522216771" stop="1522522216774" status="passed">
+            <name>When I enter mohammad@technosoftacademy.io into username text fields on home screen</name>
+            <title>When I enter mohammad@technosoftacademy.io into username text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="22772@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1522522216932" stop="1522522216932" status="passed">
+            <name>And I enter test1234 into password text fields on home screen</name>
+            <title>And I enter test1234 into password text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="22772@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1522522218666" stop="1522522218666" status="passed">
+            <name>And I click on login button on home screen</name>
+            <title>And I click on login button on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="22772@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1522522218703" stop="1522522218704" status="passed">
+            <name>Then I verify that i am an invalid login page</name>
+            <title>Then I verify that i am an invalid login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="codeLover.local"/>
+                <label name="thread" value="22772@codeLover.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |"/>
+        <label name="feature" value="Login feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
